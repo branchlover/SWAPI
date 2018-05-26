@@ -1,0 +1,22 @@
+{
+  "name": "swapi",
+  "version": "1.0.0",
+  "description": "Using the Star Wars API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branchlover/SWAPI.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Edgardo Santana - branchlover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/branchlover/SWAPI/issues"
+  },
+  "homepage": "https://github.com/branchlover/SWAPI#readme"
+}
